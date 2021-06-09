@@ -1,0 +1,25 @@
+.caja1 { 
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+color: #ffffff; 
+font-size: 18px; 
+font-weight: 400; 
+text-align: justify; 
+background: #889ccf; 
+margin: 0 0 25px; 
+overflow: hidden; 
+padding: 20px; 
+border-radius: 35px 0px 35px 0px; 
+-moz-border-radius: 35px 0px 35px 0px; 
+-webkit-border-radius: 35px 0px 35px 0px; 
+border: 2px solid #5878ca;}
+
+.caja2 {
+font-family: sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: #ffffff;
+background: #F39C12;
+margin: 0 0 25px;
+overflow: hidden;
+padding: 20px;
+}
